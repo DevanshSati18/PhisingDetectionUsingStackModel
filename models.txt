@@ -1,0 +1,11 @@
+Logistic Regression (as a simple baseline)
+https://www.kaggle.com/code/agustnluengo/logistic-reg-in-phising-cybersec/notebook
+
+Random Forest (for capturing complex relationships and feature importance)
+https://github.com/aster-fung/kaggle_phishing_webpage_classifier
+XGBoost (for high accuracy and handling complex patterns)
+https://www.kaggle.com/code/vikashchand28/decision-tree-and-xgb-112-top-40
+Support Vector Machine (SVM) (to leverage a non-linear decision boundary)
+https://www.kaggle.com/code/ujanpradhan/machinelearning-svm-linearclassifier
+K-Nearest Neighbors (KNN) (to capture local patterns and relationships)
+https://github.com/ParidhiGola/Phishing-Detector-with-KNN/tree/master
